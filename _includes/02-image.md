@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![My eye](http://hopemoore.com/images/eye.jpg)
